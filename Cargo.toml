@@ -1,0 +1,10 @@
+[package]
+name = "clapping-music"
+version = "0.1.0"
+authors = ["Cauê Baasch de Souza <cauebs@pm.me>"]
+edition = "2018"
+
+[dependencies]
+midir = "0.5.0"
+rimd = "0.0.1"
+pitch_calc = "0.11.1"
